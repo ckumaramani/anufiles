@@ -23,6 +23,8 @@ Class Employee:
     print("*",*40)
     e2=Employee(1002,"raju","SE","IT",200000)
     print("e2",id(e2))
+    e3=Employee(1003,"rajesh","SE","IT",200000)
+    print("e3",id(e3))
        
 
     
